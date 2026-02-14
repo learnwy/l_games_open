@@ -1,0 +1,20 @@
+{
+  "game": "王者荣耀",
+  "source": "人民币",
+  "target": "点券",
+  "steps": [
+    { "source": 1.0, "target": 10.0, "extras": [] },
+    { "source": 6.0, "target": 60.0, "extras": [] },
+    { "source": 45.0, "target": 450.0, "extras": [13.0, 25.0] },
+    { "source": 68.0, "target": 680.0, "extras": [20.0, 35.0] },
+    { "source": 118.0, "target": 1180.0, "extras": [35.0, 60.0] },
+    { "source": 198.0, "target": 1980.0, "extras": [60.0, 120.0] },
+    { "source": 348.0, "target": 3480.0, "extras": [105.0, 210.0] },
+    { "source": 648.0, "target": 6480.0, "extras": [200.0, 388.0] },
+    { "source": 898.0, "target": 8980.0, "extras": [288.0, 538.0] },
+    { "source": 1298.0, "target": 12980.0, "extras": [468.0, 778.0] },
+    { "source": 1998.0, "target": 19980.0, "extras": [899.0, 1199.0] },
+    { "source": 4998.0, "target": 49980.0, "extras": [2249.0, 2999.0] },
+    { "source": 9998.0, "target": 99980.0, "extras": [4499.0, 5999.0] }
+  ]
+}
